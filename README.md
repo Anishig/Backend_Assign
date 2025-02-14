@@ -89,7 +89,7 @@ Server will run on `http://localhost:3000`.
 ## Deploy API Publicly
 
 ###  Deploy to Vercel**
-- **Vercel link:**  
+- **Vercel link:**  https://vercel.com/anishigs-projects/backend-assign
 
 ## License
 MIT License
